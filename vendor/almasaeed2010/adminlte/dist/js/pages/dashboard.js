@@ -118,7 +118,7 @@ $(function () {
   $("#calendar").datepicker();
 
   //SLIMSCROLL FOR CHAT WIDGET
-  $('#chat-box').slimScroll({
+  $('#feed-box').slimScroll({
     height: '250px'
   });
 

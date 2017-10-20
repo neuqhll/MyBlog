@@ -30,7 +30,7 @@ AppAsset::register($this);
 <div class="wrap">
     <?php
     NavBar::begin([
-        'brandLabel' => 'Blog',
+        'brandLabel' => '学而时习之',
         'brandUrl' => Yii::$app->homeUrl,
         'options' => [
             'class' => 'navbar-inverse navbar-fixed-top',
@@ -48,7 +48,7 @@ AppAsset::register($this);
         $rightMenus[] = ['label' => 'Login', 'url' => ['/site/login']];
     } else {
         $rightMenus[] = [
-            'label' => '<img src="/statics/images/avatar/logo.png" class="img-circle" alt="'.Yii::$app->user->identity->username.'">',
+            'label' => '<img src="/statics/images/avatar/logo1.jpg" class="img-circle" alt="'.Yii::$app->user->identity->username.'">',
             'url' => ['/site/logout'],
             'linkOptions' => ['class' => 'avatar'],
             //'linkOptions' => ['data-method' => 'post'],
@@ -101,11 +101,6 @@ AppAsset::register($this);
     <div class="container">
         <div class="class-center">
             <p _hover-ignore="1">
-                <p>
-                <a href="http://www.test.com/post/about_blog" TARGET="_blank" title="My Blog">关于本站</a>|
-                <a href="http://www.test.com/post/about_me" target="_blank" title="Me">关于作者</a>|
-                <a href="mailto:huanglinlin1024@icloud.com" target="_blank" >联系我们</a>
-                </p>
                 <span>&copy; My Company <?= date('Y') ?></span>
                 <a href="/" _hover-ignore="1">Blog</a>
                 <span>All Rights Reserved. Theme By </span>

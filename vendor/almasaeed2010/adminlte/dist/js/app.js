@@ -97,10 +97,10 @@ $.AdminLTE.options = {
   },
   //Direct Chat plugin options
   directChat: {
-    //Enable direct chat by default
+    //Enable direct feed by default
     enable: true,
-    //The button to open and close the chat contacts pane
-    contactToggleSelector: '[data-widget="chat-pane-toggle"]'
+    //The button to open and close the feed contacts pane
+    contactToggleSelector: '[data-widget="feed-pane-toggle"]'
   },
   //Define the set of colors to use globally around the website
   colors: {
@@ -203,11 +203,11 @@ $(function () {
     FastClick.attach(document.body);
   }
 
-  //Activate direct chat widget
+  //Activate direct feed widget
   if (o.directChat.enable) {
     $(document).on('click', o.directChat.contactToggleSelector, function () {
-      var box = $(this).parents('.direct-chat').first();
-      box.toggleClass('direct-chat-contacts-open');
+      var box = $(this).parents('.direct-feed').first();
+      box.toggleClass('direct-feed-contacts-open');
     });
   }
 

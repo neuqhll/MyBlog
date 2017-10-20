@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "f3126dfbfe014003f7e9344e6d4f8bca",
+    "content-hash": "462c44ab9e1d685e8063bfab85376003",
     "packages": [
         {
             "name": "2amigos/yii2-date-picker-widget",
@@ -1093,16 +1093,16 @@
         },
         {
             "name": "kartik-v/yii2-widget-select2",
-            "version": "v2.0.9",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kartik-v/yii2-widget-select2.git",
-                "reference": "03f202e9e2415f4c84e93a64074d85677fd0cc51"
+                "reference": "690ddac32f6796f63b8317783f26e89ca26fa94a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://files.phpcomposer.com/files/kartik-v/yii2-widget-select2/03f202e9e2415f4c84e93a64074d85677fd0cc51.zip",
-                "reference": "03f202e9e2415f4c84e93a64074d85677fd0cc51",
+                "url": "https://files.phpcomposer.com/files/kartik-v/yii2-widget-select2/690ddac32f6796f63b8317783f26e89ca26fa94a.zip",
+                "reference": "690ddac32f6796f63b8317783f26e89ca26fa94a",
                 "shasum": ""
             },
             "require": {
@@ -1142,7 +1142,7 @@
                 "widget",
                 "yii2"
             ],
-            "time": "2017-04-12T09:00:24+00:00"
+            "time": "2017-06-21T11:33:04+00:00"
         },
         {
             "name": "michelf/php-markdown",
@@ -4415,7 +4415,8 @@
         "kartik-v/yii2-markdown": 20,
         "kartik-v/yii2-widget-datepicker": 20,
         "kartik-v/yii2-widget-fileinput": 20,
-        "bailangzhan/yii2-webuploader": 20
+        "bailangzhan/yii2-webuploader": 20,
+        "kartik-v/yii2-widget-select2": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,

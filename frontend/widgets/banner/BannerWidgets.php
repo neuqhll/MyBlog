@@ -13,9 +13,15 @@ class BannerWidgets extends Widget
     {
         if(empty($this->item)) {
             $this->item = [
-                ['label' => 'demo', 'image_url' => '/statics/images/banner/b_0.jpeg', 'url' => ['site/index']],
-                ['label' => 'demo', 'image_url' => '/statics/images/banner/b_1.jpeg', 'url' => ['site/index']],
-                ['label' => 'demo', 'image_url' => '/statics/images/banner/b_2.jpeg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_0.jpg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_1.jpg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_2.jpg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_3.jpg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_4.jpg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_5.jpg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_6.jpg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_7.jpg', 'url' => ['site/index']],
+                ['label' => 'demo', 'image_url' => '/statics/images/banner/bg_8.jpg', 'url' => ['site/index']],
             ];
         }
     }

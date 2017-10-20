@@ -174,15 +174,6 @@ return array (
       '@manks' => $vendorDir . '/bailangzhan/yii2-webuploader',
     ),
   ),
-  'kartik-v/yii2-widget-select2' => 
-  array (
-    'name' => 'kartik-v/yii2-widget-select2',
-    'version' => '2.0.9.0',
-    'alias' => 
-    array (
-      '@kartik/select2' => $vendorDir . '/kartik-v/yii2-widget-select2',
-    ),
-  ),
   'oonne/yii2-scroll-to-top' => 
   array (
     'name' => 'oonne/yii2-scroll-to-top',
@@ -190,6 +181,15 @@ return array (
     'alias' => 
     array (
       '@oonne/scrollTop' => $vendorDir . '/oonne/yii2-scroll-to-top',
+    ),
+  ),
+  'kartik-v/yii2-widget-select2' => 
+  array (
+    'name' => 'kartik-v/yii2-widget-select2',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@kartik/select2' => $vendorDir . '/kartik-v/yii2-widget-select2',
     ),
   ),
 );

@@ -22,16 +22,11 @@ $this->params['breadcrumbs'][]= $this->title;
     </div>
 
     <div class="page-tag">
-        <div class="page-tag">
             <span class="glyphicon glyphicon-tags">&nbsp;&nbsp;</span>
             <?php foreach($data['tags'] as $tag):?>
                 <span><a href="#"><?=$tag?></a> </span>
             <?php endforeach;?>
         </div>
-
     </div>
-    </div>
-    <div class="col-lg-3">
-
-    </div>
+    <div class="col-lg-3"></div>
 </div>

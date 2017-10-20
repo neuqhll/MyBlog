@@ -146,7 +146,7 @@ AppAsset::register($this);
 
             <div class="leftpanel-userinfo collapse" id="loguserinfo">
                 <h5 class="sidebar-title">地址</h5>
-                <address>d东北大学秦皇岛分校</address>
+                <address>东北大学秦皇岛分校</address>
                 <h5 class="sidebar-title">联系方式</h5>
                 <ul class="list-group">
                     <li class="list-group-item">

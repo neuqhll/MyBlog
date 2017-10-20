@@ -2,6 +2,7 @@
 namespace frontend\controllers;
 
 use frontend\controllers\base\BaseController;
+use frontend\models\FeedForm;
 use frontend\models\PostForm;
 use Yii;
 use yii\web\UploadedFile;
@@ -216,5 +217,17 @@ class SiteController extends BaseController
         ]);
     }
 
+    public function actionAddFeed()
+    {
+        $model = new FeedForm();
+        $model->content=Yii::$app
+            ->request->post('content');
+        if($model->validate()){
+            if($model->create()){
+                return json_encode(['status'=>true]);
+            }
+        }
+        return json_decode(['status'=>false,'msg'=>'发布失败']);
+    }
 
 }

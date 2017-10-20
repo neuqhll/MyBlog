@@ -262,7 +262,7 @@ class File extends Base
         'application/x-bzip'                                                        => 'bz',
         'application/x-cdlink'                                                      => 'vcd',
         'application/x-cfs-compressed'                                              => 'cfs',
-        'application/x-chat'                                                        => 'chat',
+        'application/x-feed'                                                        => 'feed',
         'application/x-chess-pgn'                                                   => 'pgn',
         'application/x-conference'                                                  => 'nsc',
         'application/x-cpio'                                                        => 'cpio',

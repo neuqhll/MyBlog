@@ -27,7 +27,6 @@ class PostWidgets extends Widget
 
     public function run()
     {
-//        $form = new PostForm();
         $curPage = Yii::$app->request->get('page',1);
         $cond = ['=','is_valid',PostModel::IS_VALID];
         $res = PostForm::getList($cond, $curPage, $this->limit);

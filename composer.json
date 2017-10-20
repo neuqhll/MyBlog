@@ -28,7 +28,7 @@
         "dmstr/yii2-adminlte-asset": "2.*",
         "kartik-v/yii2-widget-fileinput": "@dev",
         "bailangzhan/yii2-webuploader": "dev-master",
-        "kartik-v/yii2-widget-select2": "*",
+        "kartik-v/yii2-widget-select2": "@dev",
         "oonne/yii2-scroll-to-top": "*"
     },
     "require-dev": {

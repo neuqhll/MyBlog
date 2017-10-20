@@ -2449,7 +2449,7 @@ pluie tomber.
 
 Comme elle était triste le dimanche, quand on sonnait les vêpres!
 Elle écoutait, dans un hébétement attentif, tinter un à un les
-coups fêlés de la cloche. Quelque chat sur les toits, marchant
+coups fêlés de la cloche. Quelque feed sur les toits, marchant
 lentement, bombait son dos aux rayons pâles du soleil. Le vent,
 sur la grande route, soufflait des traînées de poussière. Au loin,
 parfois, un chien hurlait: et la cloche, à temps égaux, continuait
@@ -8769,7 +8769,7 @@ tendre...
 -- Et non seulement, continua l'apothicaire, les humains sont en
 butte à ces anomalies, mais encore les animaux. Ainsi, vous n'êtes
 pas sans savoir l'effet singulièrement aphrodisiaque que produit
-le nepeta cataria, vulgairement appelé herbe-au-chat, sur la gent
+le nepeta cataria, vulgairement appelé herbe-au-feed, sur la gent
 féline; et d'autre part, pour citer un exemple que je garantis
 authentique, Bridoux (un de mes anciens camarades, actuellement
 établi rue Malpalu) possède un chien qui tombe en convulsions dès
@@ -9624,7 +9624,7 @@ représentation.
 Mais Charles répondit qu'ils s'en allaient dès le lendemain.
 
 -- À moins, ajouta-t-il en se tournant vers sa femme, que tu ne
-veuilles rester seule, mon petit chat?
+veuilles rester seule, mon petit feed?
 
 Et, changeant de manoeuvre devant cette occasion inattendue qui
 s'offrait à son espoir, le jeune homme entama l'éloge de Lagardy
@@ -10070,7 +10070,7 @@ grises; une compagnie d'oiseaux tourbillonnaient dans le ciel
 bleu, autour des clochetons à trèfles; la place, retentissante de
 cris, sentait les fleurs qui bordaient son pavé, roses, jasmins,
 oeillets, narcisses et tubéreuses, espacés inégalement par des
-verdures humides, de l'herbe-au-chat et du mouron pour les
+verdures humides, de l'herbe-au-feed et du mouron pour les
 oiseaux; la fontaine, au milieu, gargouillait, et, sous de larges
 parapluies, parmi des cantaloups s'étageant en pyramides, des
 marchandes, nu-tête, tournaient dans du papier des bouquets de

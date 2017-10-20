@@ -14,10 +14,12 @@ $this->params['breadcrumbs'][] = $this->title;
         <h4 class="panel-title">欢迎登陆博客系统</h4>
     </div>
     <div class="panel-body">
-        <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=mqitqaivo6qor9rr67T59fc"
-           style="text-decoration:none;" class="btn btn-primary btn-quirk btn-fb btn-block">
-            联系我们
-        </a>
+<!--        qq邮箱接口-->
+<!--        <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=mqitqaivo6qor9rr67T59fc"-->
+<!--           style="text-decoration:none;" class="btn btn-primary btn-quirk btn-fb btn-block">-->
+<!--            联系我们-->
+<!--        </a>-->
+            <a href="mailto:huanglinlin1024@icloud.com" class="btn btn-primary btn-quirk btn-fb btn-block">联系我们</a>
         <div class="or">or</div>
         <?php $form = ActiveForm::begin(['id' => 'login-form']); ?>
         <?= $form->field($model, 'username',[
